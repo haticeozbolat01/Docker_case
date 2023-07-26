@@ -1,25 +1,26 @@
+
 # Docker_case
 Bu case çalışması Atp Core Talent için hazırlanmıştır. 
-Docker yapıları üzerine tanımlanan soruları yaptım. 
+Docker yapıları üzerine tanımlanan soruları yaptım. Şablona göre uygulamaları tasarladım.
+
+#### Case süresince zamanımın çoğunu soruları anlamak ve nasıl bir yöntemler yaparsam daha verimli olur düşünerek ilerledim. 
+#### Daha sonrasında böl ve yönet yapıp sonradan birleştirmeye hedefledim. 
 
 
-Ekran görüntüleri yer alıyor.
-
-![gelf-test](https://github.com/haticeozbolat01/Docker_case/assets/74445249/eb342bc4-8b90-4bd1-b261-ede783e63a15)
-
-![filebeat-test](https://github.com/haticeozbolat01/Docker_case/assets/74445249/ae073d80-22ba-442d-ae99-f8e37b57f063)
-
-![elastic-stack-arch](https://github.com/haticeozbolat01/Docker_case/assets/74445249/b013aafa-65d5-4587-a81d-0e7afe038ac1)
-
-![elastic-products](https://github.com/haticeozbolat01/Docker_case/assets/74445249/56238e2e-ee72-4b7f-9862-2083f5fa8c48)
+Ekran görüntüleri: 
 
 
-![filebeat-test](https://github.com/haticeozbolat01/Docker_case/assets/74445249/207a2faa-ae1f-4a81-99bc-bc88671486a0)
+![gelf-test](https://github.com/haticeozbolat01/Docker_case/assets/74445249/83865bfc-fb77-4732-a69a-113b6028e903)
 
 
-<img width="1680" alt="Screenshot 2020-10-16 at 19 41 49" src="https://github.com/haticeozbolat01/Docker_case/assets/74445249/d6766cc0-0351-44e9-931e-35e7a210fd37">
+![filebeat-test](https://github.com/haticeozbolat01/Docker_case/assets/74445249/8a96f5d3-6a6b-4025-b166-2daffa89de79)
 
 
+<img width="1680" alt="Screenshot 2020-10-16 at 19 41 49" src="https://github.com/haticeozbolat01/Docker_case/assets/74445249/d1fc57e5-8b54-4d93-b4fc-1c858638278d">
+
+![elastic-stack-arch](https://github.com/haticeozbolat01/Docker_case/assets/74445249/81b346e8-4f30-4339-a792-a93500299a94)
 
 
+### Not: 
 
+Bazı sorulardan belirli noktalara kadar geldim ama devamını getiremedim. Bu case yaparken çok eğlendim. Şimdiden ilginiz için teşekkür ederim. 
